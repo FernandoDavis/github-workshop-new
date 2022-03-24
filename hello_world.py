@@ -1,2 +1,2 @@
 print("Hello World")
-print("This line should cause a conflict with main")
+print("This line is safe from conflict")
